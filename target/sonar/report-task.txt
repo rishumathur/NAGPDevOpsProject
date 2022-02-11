@@ -1,0 +1,6 @@
+projectKey=NAGPDevOpsSonar
+serverUrl=http://localhost:9000
+serverVersion=9.3.0.51899
+dashboardUrl=http://localhost:9000/dashboard?id=NAGPDevOpsSonar
+ceTaskId=AX7o4aicnPjwsMgH9uZK
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX7o4aicnPjwsMgH9uZK
